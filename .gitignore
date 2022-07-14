@@ -1,0 +1,7 @@
+# IDEs
+.vs/
+.vscode/
+
+# Temporary .NET files
+obj/
+bin/
